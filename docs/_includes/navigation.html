@@ -1,6 +1,9 @@
 <nav>
   {% for item in site.data.navigation %}
     <!--<a href="{% if jekyll.environment == production %} {{ item.link | prepend: site.github.repository_name }} {% else %} {{ item.link }} {% endif %}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>-->
-    <a href="{{ item.link | prepend: site.github.repository_name }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+    <a href="{{ item.link | prepend: site.github.baseurl }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+    <a href="{{ item.link | prepend: site.github.project_title }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name | append: '2' }}</a>
+    <a href="{{ item.link | prepend: site.github.source.path }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name | append: '3' }}</a>
+    <a href="{{ item.link | prepend: site.github.repository_name }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name | append: '4' }}</a>
   {% endfor %}
 </nav>
