@@ -4,4 +4,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
 theme: jekyll-theme-hacker
-repository: testing-microservices/HectorRPC
+repository: HectorRPC/testing-microservices
