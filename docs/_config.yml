@@ -4,3 +4,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
 repository: HectorRPC/testing-microservices
+baseurl: /testing-microservices
