@@ -5,3 +5,6 @@ plugins:
   - jekyll-github-metadata
 repository: HectorRPC/testing-microservices
 baseurl: /testing-microservices
+
+sass:
+    style: :compressed
