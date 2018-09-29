@@ -1,3 +1,18 @@
 .current {
     color: green
   }
+header {
+  background-color: black;
+  padding: 1em;
+  justify-content: center;
+}
+
+.nav-pills > li > a {
+  background-color: rgb(134, 134, 134);
+  color: white;
+}
+
+.nav-pills > li.active > a {
+  background-color: yellow;
+  color: black
+}
