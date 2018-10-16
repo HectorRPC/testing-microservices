@@ -13,7 +13,7 @@ Adicionalmente, al llevar al día este blog, en cualquier momento puedo recupera
 
 A la hora de arrancar el proyecto, me he topado con muuuchas decisiones que tomar: qué arquitectura utilizar como referencia, qué tecnología/s usar para el desarrollo, cómo enfocar la documentación...
 
-En este post voy a intentar explicar cada una de las decisiones que he tomado, razonándolas:
+En los siguientes posts voy a intentar explicar cada una de las decisiones que he tomado, razonándolas:
 
 - ## Objetivos principales
     El proyecto, al tratarse de dos TFGs, debe abarcar dos ámbitos diferenciados. En este caso, he decidido investigar y comparar las diferentes metodologías y herramientas de Integración continua (CI) y Despliegue Continuo (CD).
@@ -23,10 +23,6 @@ En este post voy a intentar explicar cada una de las decisiones que he tomado, r
     Figura 1. Esquema de la orientación del proyecto.
 
     - ### Integración continua
-        Mediante esta sección del proyecto, adquiriré el conocimiento necesario para realizar una comparativa desde múltimples puntos de vista, trabajando en el ámbito de los microservicios. Esta comparativa incluirá tecnologías como Jenkins o Azure DevOps
-    
+        Mediante esta sección del proyecto, adquiriré el conocimiento necesario para realizar una comparativa desde múltiples puntos de vista, trabajando en el ámbito de los microservicios. Esta comparativa incluirá tecnologías como Jenkins o Azure DevOps
     - ### Despliegue continuo
         Una vez realizada la comparativa acerca de la CI, el despliegue continuo es el siguiente paso. Mediante tecnología de contenedores, Kubernetes y otras, realizaré una comparativa en profundidad.
-    
-- ## Tecnologías de desarrollo
-    En progreso...
