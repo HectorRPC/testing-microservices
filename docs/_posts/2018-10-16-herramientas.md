@@ -5,7 +5,7 @@ author: HectorRPC
 
 # Tecnologías de desarrollo y herramientas
 
-En este post profundizaré sobre las herramientas y tecnologías que, al inicio del proyecto, he decidido utilizar:
+En este post indicaré las herramientas y tecnologías que, al inicio del proyecto, he decidido utilizar:
 - ### Documentación: 
     Tras investigar un poco, he descubierto [Jekyll](https://jekyllrb.com/), una gema de Ruby que permite generar documentación estática. Encuentro esta herramienta especialmente útil debido a que me permite aunar la documentación y el blog en un mismo sitio. Más concretamente, en el repositorio del proyecto.
 - ### Arquitectura de microservicios:
