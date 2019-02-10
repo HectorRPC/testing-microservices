@@ -1,0 +1,9 @@
+{
+    "MessageBrokerSettings":{
+        "BrokerType": "RabbitMQ",
+        "Hostname": "localhost",
+        "UserName": "guest",
+        "Password": "guest",
+        "Port": 5672
+      }
+}
