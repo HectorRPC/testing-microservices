@@ -15,7 +15,11 @@ namespace micro1.Managers.Broker
 
         public override void PublishMessage(string queue, byte[] body)
         {
-            var factory = new ConnectionFactory() { HostName = _settings.HostName };
+            var factory = new ConnectionFactory() 
+            { 
+                HostName = _settings.HostName,
+                Port = _settings.Port 
+                };
             using(var connection = factory.CreateConnection())
             using(var channel = connection.CreateModel())
             {
@@ -34,10 +38,6 @@ namespace micro1.Managers.Broker
                                     body: body);
                 _logger.LogInformation(" [x] Sent {0}", queue);
             }
-        }
-
-        public void send(){
-            
         }
     }
 }
