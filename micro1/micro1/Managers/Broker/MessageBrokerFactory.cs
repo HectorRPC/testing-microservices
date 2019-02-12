@@ -26,6 +26,7 @@ namespace micro1.Managers.Broker
             } 
             catch (Exception ex) 
             {
+                _logger.LogError(ex, "Error creating MessageBroker");
                 return null;
             }
         }

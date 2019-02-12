@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\hecto\\Documents\\Proyectos\\TFG\\testing-microservices\\micro1\\micro1.Tests\\micro1.Tests.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\hecto\Documents\Proyectos\TFG\testing-microservices\micro1\micro1.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\hecto\Documents\Proyectos\TFG\testing-microservices\micro1\micro1.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\hecto\Documents\Proyectos\TFG\testing-microservices\micro1\micro1.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\hecto\Documents\Proyectos\TFG\testing-microservices\micro1\micro1.Tests\bin\Debug\netcoreapp2.1\micro1.Tests.deps.json
+C:\Users\hecto\Documents\Proyectos\TFG\testing-microservices\micro1\micro1.Tests\bin\Debug\netcoreapp2.1\micro1.Tests.runtimeconfig.json
+C:\Users\hecto\Documents\Proyectos\TFG\testing-microservices\micro1\micro1.Tests\bin\Debug\netcoreapp2.1\micro1.Tests.runtimeconfig.dev.json
+C:\Users\hecto\Documents\Proyectos\TFG\testing-microservices\micro1\micro1.Tests\bin\Debug\netcoreapp2.1\micro1.Tests.dll
+C:\Users\hecto\Documents\Proyectos\TFG\testing-microservices\micro1\micro1.Tests\bin\Debug\netcoreapp2.1\micro1.Tests.pdb
+C:\Users\hecto\Documents\Proyectos\TFG\testing-microservices\micro1\micro1.Tests\bin\Debug\netcoreapp2.1\micro1.dll
+C:\Users\hecto\Documents\Proyectos\TFG\testing-microservices\micro1\micro1.Tests\bin\Debug\netcoreapp2.1\micro1.pdb
+C:\Users\hecto\Documents\Proyectos\TFG\testing-microservices\micro1\micro1.Tests\obj\Debug\netcoreapp2.1\micro1.Tests.csprojAssemblyReference.cache
+C:\Users\hecto\Documents\Proyectos\TFG\testing-microservices\micro1\micro1.Tests\obj\Debug\netcoreapp2.1\micro1.Tests.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Documents\Proyectos\TFG\testing-microservices\micro1\micro1.Tests\obj\Debug\netcoreapp2.1\micro1.Tests.AssemblyInfoInputs.cache
+C:\Users\hecto\Documents\Proyectos\TFG\testing-microservices\micro1\micro1.Tests\obj\Debug\netcoreapp2.1\micro1.Tests.AssemblyInfo.cs
+C:\Users\hecto\Documents\Proyectos\TFG\testing-microservices\micro1\micro1.Tests\obj\Debug\netcoreapp2.1\micro1.Tests.csproj.CopyComplete
+C:\Users\hecto\Documents\Proyectos\TFG\testing-microservices\micro1\micro1.Tests\obj\Debug\netcoreapp2.1\micro1.Tests.dll
+C:\Users\hecto\Documents\Proyectos\TFG\testing-microservices\micro1\micro1.Tests\obj\Debug\netcoreapp2.1\micro1.Tests.pdb
