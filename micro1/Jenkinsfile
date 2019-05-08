@@ -1,0 +1,9 @@
+pipeline {
+    stages{
+        stage('Checkout') {
+            steps {
+                git credentialsId: '3f2aa6eb-6889-4ab1-9ab9-e15f25f9e0da', url: 'https://github.com/HectorRPC/testing-microservices', branch: 'micro1'
+            }
+        }
+    }
+}
