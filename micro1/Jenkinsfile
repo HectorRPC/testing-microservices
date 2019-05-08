@@ -11,12 +11,12 @@ pipeline {
         }
         stage('Restore Packages') {
             steps {
-                bat "dotnet restore"
+                sh "dotnet restore"
             }
         }
         stage('Clean') {
             steps {
-                bat "dotnet clean"
+                sh "dotnet clean"
             }
         }
     }
