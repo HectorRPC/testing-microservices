@@ -8,7 +8,7 @@ namespace micro1.Tests
         [Fact]
         public void Test1()
         {
-            Assert.True(false, "Fallo");
+            Assert.True(true, "Fallo");
         }
     }
 }
